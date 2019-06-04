@@ -19,7 +19,7 @@ This course shows you step by step how to use JavaScript to connect to popular w
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 <DIV class=book-info-will-learn-text>
-This course is designed for JavaScript beginners, web developers, and those who wants to learn to connect to APIs.<DIV>
+<li>This course is designed for JavaScript beginners, web developers, and those who wants to learn to connect to APIs.</li><DIV>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
